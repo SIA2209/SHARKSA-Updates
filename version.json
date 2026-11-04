@@ -1,10 +1,11 @@
 
 
 
+
 {
-  "version": "1.1.3",
-  "release_notes": "SHARKSA V1.1.3: Inicio de sesion seguro, sesiones persistentes, menu Mi Cuenta y mejoras de seguridad.",
-  "download_url": "https://github.com/SIA2209/SHARKSA-Updates/releases/download/v1.1.3/SHARKSA_Setup_1.1.3.exe",
+  "version": "1.1.4",
+  "release_notes": "SHARKSA V1.1.4: Nuevo modulo de Registro de Productos, formulario Nuevo Producto, exportacion a Excel y PDF, mejoras de navegacion y correccion del boton Inicio.",
+  "download_url": "https://github.com/SIA2209/SHARKSA-Updates/releases/download/v1.1.4/SHARKSA_Setup_v1.1.4.exe",
   "mandatory": false
 }
 
