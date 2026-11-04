@@ -1,8 +1,8 @@
 
+
 {
-  
-  "version": "1.1.2",
-  "release_notes": "Version actual de SHARKSA Software con los modulos Bodegas, Proveedores y Categorias.",
+  "version": "1.1.3",
+  "release_notes": "SHARKSA V1.1.3: Incorporacion de inicio de sesion seguro con Supabase Auth, sesiones persistentes, menu Mi Cuenta, identificacion del usuario y cierre de sesion. Mejoras de seguridad en Bodegas, Proveedores y Categorias.",
   "download_url": "",
   "mandatory": false
 }
