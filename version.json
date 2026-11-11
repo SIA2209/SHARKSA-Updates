@@ -3,9 +3,6 @@
 
 
 {
-  "version": "1.1.4",
-  "release_notes": "SHARKSA V1.1.4: Nuevo modulo de Registro de Productos, formulario Nuevo Producto, exportacion a Excel y PDF, mejoras de navegacion y correccion del boton Inicio.",
-  "download_url": "https://github.com/SIA2209/SHARKSA-Updates/releases/download/v1.1.4/SHARKSA_Setup_v1.1.4.exe",
-  "mandatory": false
+  "version": "1.1.5",
+  "release_notes": "SHARKSA V1.1.5: Nueva interfaz de multipagos con efectivo, tarjeta y transferencia. Incluye validación de vouchers, referencias y distribución de importes. Funcionalidad en fase de demostración."
 }
-
