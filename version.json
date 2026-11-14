@@ -2,7 +2,8 @@
 
 
 
+
 {
-  "version": "1.1.5",
-  "release_notes": "SHARKSA V1.1.5: Nueva interfaz de multipagos con efectivo, tarjeta y transferencia. Incluye validación de vouchers, referencias y distribución de importes. Funcionalidad en fase de demostración."
+  "version": "1.1.6",
+  "release_notes": "SHARKSA V1.1.6: Actualización de la versión interna del software, corrección de rutas duplicadas de compilación y mejoras en la preparación del instalador para Windows. Se conservan las funcionalidades existentes, incluyendo la interfaz de multipagos en fase de demostración."
 }
