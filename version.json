@@ -1,9 +1,8 @@
 
 
-
-
-
 {
-  "version": "1.1.6",
-  "release_notes": "SHARKSA V1.1.6: Actualización de la versión interna del software, corrección de rutas duplicadas de compilación y mejoras en la preparación del instalador para Windows. Se conservan las funcionalidades existentes, incluyendo la interfaz de multipagos en fase de demostración."
+  "version": "1.1.7",
+  "release_notes": "SHARKSA V1.1.7: Nuevo botón ACTUALIZAR en el registro de proveedores, sincronización manual de información desde Supabase y mejoras en el sistema de actualización automática.",
+  "download_url": "https://github.com/SIA2209/SHARKSA-Updates/releases/download/v1.1.7/SHARKSA_Setup_1.1.7.exe",
+  "sha256": "5963A6B06DCAFF99B1AB6974B780856A232C8B240C2C1358C50D4D0F40C8CE02"
 }
