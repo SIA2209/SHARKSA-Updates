@@ -1,7 +1,10 @@
 
 
+
 {
   "version": "1.1.8",
-  "release_notes": "SHARKSA V1.1.8: Registro de ventas, distribución de pagos, reportes de ventas en Excel y PDF, comprobantes de venta y entrega, mejoras en clientes y formato de fechas DD/MM/AAAA."
+  "release_notes": "SHARKSA V1.1.8: Registro de ventas, distribución de pagos, reportes de ventas en Excel y PDF, comprobantes de venta y entrega, mejoras en clientes y formato de fechas DD/MM/AAAA.",
+  "download_url": "https://github.com/SIA2209/SHARKSA-Updates/releases/download/v1.1.8/SHARKSA_Setup_1.1.8.exe",
+  "sha256": "19383759C05143044F970362A463637B430E64F206EBAB111736BC3AD42E9DB2"
 }
 
